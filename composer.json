@@ -1,0 +1,9 @@
+{
+  "name": "insejn/facetwp-bigcommerce",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "description": "FacetWP Bigcommerce plugin mirror for composer installation",
+  "keywords": [
+      "wordpress"
+  ]
+}
